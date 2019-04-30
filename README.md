@@ -1,1 +1,1 @@
-# Movie-Search_React-App
+# Movie-Search-React-App
